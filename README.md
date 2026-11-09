@@ -1,4 +1,4 @@
-<img src="header.svg" width="100%"/>
+<img src="header.gif" width="100%"/>
 
 <div align="center">
 
