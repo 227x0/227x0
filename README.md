@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Vladyslav%20Simonov&fontSize=42&fontColor=e94560&animation=twinkling" width="100%"/>
+<img src="header.svg" width="100%"/>
 
 <div align="center">
 

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Vladyslav Simonov — SOC L1/L2 Trainee">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070b14"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#070b14"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2ff"/>
+      <stop offset="50%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#ff0055"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#cbd5e1"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e293b" stroke-width="0.5" opacity="0.4"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+
+  <!-- Top cyber line -->
+  <rect width="1200" height="3" fill="url(#accent)"/>
+  <rect x="0" y="3" width="1200" height="1" fill="#00f2ff" opacity="0.15"/>
+
+  <!-- Decorative corner brackets -->
+  <g stroke="url(#accent)" stroke-width="2" fill="none" opacity="0.6">
+    <path d="M40 40 L40 70 L70 70"/>
+    <path d="M1160 40 L1160 70 L1130 70"/>
+    <path d="M40 280 L40 250 L70 250"/>
+    <path d="M1160 280 L1160 250 L1130 250"/>
+  </g>
+
+  <!-- Shield icon -->
+  <g transform="translate(90, 110)" filter="url(#glow)">
+    <path d="M60 10 L110 28 L110 70 C110 110 60 140 60 140 C60 140 10 110 10 70 L10 28 Z" fill="none" stroke="url(#accent)" stroke-width="3"/>
+    <path d="M60 35 L85 55 L75 95 L45 95 L35 55 Z" fill="none" stroke="#00f2ff" stroke-width="2" opacity="0.9"/>
+    <circle cx="60" cy="70" r="8" fill="#00f2ff" opacity="0.9"/>
+  </g>
+
+  <!-- Main text -->
+  <text x="600" y="155" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="62" font-weight="800" fill="url(#textGrad)" letter-spacing="1">Vladyslav Simonov</text>
+
+  <!-- Subtitle -->
+  <text x="600" y="205" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="500" fill="#94a3b8">SOC L1/L2 Trainee · Cybersecurity Enthusiast</text>
+
+  <!-- Tagline -->
+  <text x="600" y="250" text-anchor="middle" font-family="'Fira Code', 'JetBrains Mono', monospace" font-size="18" fill="#00f2ff" letter-spacing="2">DETECT EARLY · RESPOND FAST · LEARN CONTINUOUSLY</text>
+
+  <!-- Subtle bottom glow -->
+  <rect x="0" y="316" width="1200" height="4" fill="url(#accent)" opacity="0.4"/>
+</svg>
