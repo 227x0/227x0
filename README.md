@@ -44,6 +44,9 @@ shift handover), ops runbook with real failure postmortems.
 
 [![Cisco Networking Basics](https://img.shields.io/badge/Cisco-Networking%20Basics-049fd9)](https://www.credly.com/badges/bb4ab1ac-5b98-4099-b964-a76346a4ff40/public_url)
 [![Cisco Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-049fd9)](https://www.credly.com/badges/28eb2f86-a56d-4373-bb2c-2d0f683a0767/public_url)
+
+<a href="https://www.credly.com/badges/bb4ab1ac-5b98-4099-b964-a76346a4ff40/public_url"><img src="cert-badges/networking-basics.png" height="95"></a>
+<a href="https://www.credly.com/badges/28eb2f86-a56d-4373-bb2c-2d0f683a0767/public_url"><img src="cert-badges/introduction-to-cybersecurity.png" height="95"></a>
 ![NetAcad](https://img.shields.io/badge/NetAcad-Linux%20Unhatched%20(in%20progress)-1ba098)
 
 ## Languages
