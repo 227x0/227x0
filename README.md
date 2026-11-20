@@ -48,7 +48,9 @@ shift handover), ops runbook with real failure postmortems.
 <a href="https://www.credly.com/badges/bb4ab1ac-5b98-4099-b964-a76346a4ff40/public_url"><img src="cert-badges/networking-basics.png" height="95"></a>
 <a href="https://www.credly.com/badges/28eb2f86-a56d-4373-bb2c-2d0f683a0767/public_url"><img src="cert-badges/introduction-to-cybersecurity.png" height="95"></a>
 <a href="https://www.credly.com/badges/6f0bc57c-e7a5-4ab4-8d22-25c78af5e1a7/public_url"><img src="cert-badges/linux-unhatched.png" height="95"></a>
+<a href="https://www.credly.com/badges/8153d1a3-283a-41a1-ac6e-7755286cfb04/public_url"><img src="cert-badges/cybersecurity-fundamentals.png" height="95"></a>
 [![NetAcad Linux Unhatched](https://img.shields.io/badge/NetAcad-Linux%20Unhatched-1ba098)](https://www.credly.com/badges/6f0bc57c-e7a5-4ab4-8d22-25c78af5e1a7/public_url)
+[![NetAcad Cybersecurity Fundamentals](https://img.shields.io/badge/NetAcad-Cybersecurity%20Fundamentals-1ba098)](https://www.credly.com/badges/8153d1a3-283a-41a1-ac6e-7755286cfb04/public_url)
 
 ## Languages
 
